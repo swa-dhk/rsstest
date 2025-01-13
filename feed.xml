@@ -49,7 +49,6 @@
 			<podcast:transcript
 				url="https://swa-dhk.github.io/rsstest/files/sample-file-1.srt"
 				type="application/x-subrip"
-				rel="captions"
 				/>
 			<itunes:duration>546.216</itunes:duration>
 			<guid isPermaLink='false'>
@@ -71,7 +70,7 @@
 			<podcast:transcript
 				url="https://swa-dhk.github.io/rsstest/files/testm4b.srt"
 				type="application/x-subrip"
-				rel="captions"
+		
 				/>
 			<itunes:duration>546.216</itunes:duration>
 			<guid isPermaLink='false'>
