@@ -169,9 +169,8 @@
 			<itunes:explicit>false</itunes:explicit>
 			<podcast:season name="Podcasting 2.0">1</podcast:season>
 			<podcast:episode>2</podcast:episode>
-			<podcast:chapters url="https://swa-dhk.github.io/rsstest/files/testm4b.srt" type="application/x-subrip" />
 			<podcast:soundbite startTime="45.4" duration="56.0" />
-			<podcast:transcript url="https://example.com/ep2/transcript.txt" type="text/plain" />
+			<podcast:transcript url="https://swa-dhk.github.io/rsstest/files/testm4b.srt" type="application/x-subrip" />
 			<podcast:person href="https://en.wikipedia.org/wiki/Adam_Curry"
 				img="http://example.com/images/adamcurry.jpg">Adam Curry</podcast:person>
 			<podcast:person role="guest" href="https://example.com/blog/daveajones/"
