@@ -69,6 +69,8 @@
 			<podcast:transcript url="https://swa-dhk.github.io/rsstest/files/sample-file-1.srt" type="application/x-subrip" />
 		
 
+
+			<enclosure url="https://swa-dhk.github.io/rsstest/files/sample-file-1.mp3" length="43113000" type="audio/mpeg" />
 		</item>
 
 		<item>
@@ -91,6 +93,8 @@
 			<podcast:soundbite startTime="45.4" duration="56.0" />
 			<podcast:transcript url="https://swa-dhk.github.io/rsstest/files/testm4b.srt" type="application/x-subrip" />
 
+
+			<enclosure url="https://swa-dhk.github.io/rsstest/files/testm4b.1.mp3" length="43113000" type="audio/mpeg" />
 		</item>
 
 		<item>
