@@ -14,7 +14,7 @@
 		<managingEditor>john@example.com (John Doe)</managingEditor>
 		<webMaster>support@example.com (Tech Support)</webMaster>
 		<image>
-			<url>https://i0.wp.com/opensource.org/wp-content/uploads/2009/08/osi_black_and_white_light_backgrounds_logo_0.png</url>
+			<url>https://swa-dhk.github.io/rsstest/pcastlogo.jpg</url>
 			<title>Podcast Feed Template</title>
 			<link>https://example.com/show</link>
 		</image>
@@ -44,7 +44,7 @@
 			<itunes:email>johndoe@example.com</itunes:email>
 		</itunes:owner>
 
-		<itunes:image>https://i0.wp.com/opensource.org/wp-content/uploads/2009/08/osi_black_and_white_light_backgrounds_logo_0.png</itunes:image>
+		<itunes:image>https://swa-dhk.github.io/rsstest/pcastlogo.jpg</itunes:image>
 
 
 
@@ -75,7 +75,7 @@
 			<guid isPermaLink="true">https://example.com/ep0003</guid>
 			<pubDate>Fri, 09 Oct 2020 04:30:38 GMT</pubDate>
 			<author>John Doe (john@example.com)</author>
-			<itunes:image>https://example.com/ep0003/artMd.jpg</itunes:image>
+			<itunes:image>https://swa-dhk.github.io/rsstest/pcastlogo.jpg</itunes:image>
 			<podcast:images
 				srcset="https://example.com/images/ep3/pci_avatar-massive.jpg 1500w,
                                         https://example.com/images/ep3/pci_avatar-middle.jpg 600w,
@@ -160,7 +160,7 @@
 			<guid isPermaLink="true">https://example.com/ep0002</guid>
 			<pubDate>Thu, 08 Oct 2020 04:30:38 GMT</pubDate>
 			<author>John Doe (john@example.com)</author>
-			<itunes:image>https://example.com/ep0002/artMd.jpg</itunes:image>
+			<itunes:image>https://swa-dhk.github.io/rsstest/pcastlogo.jpg</itunes:image>
 			<podcast:images
 				srcset="https://example.com/images/ep2/pci_avatar-massive.jpg 1500w,
                                         https://example.com/images/ep2/pci_avatar-middle.jpg 600w,
