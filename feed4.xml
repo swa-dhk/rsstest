@@ -66,13 +66,13 @@
 			<podcast:episode>3</podcast:episode>
 			<!--<podcast:chapters url="https://example.com/ep3_chapters.json" type="application/json" />-->
 			<podcast:soundbite startTime="33.833" duration="60.0" />
-			<podcast:transcript url="https://swa-dhk.github.io/rsstest/files/sample-file-1.srt" type="application/x-subrip" />
+			<!--<podcast:transcript url="https://swa-dhk.github.io/rsstest/files/sample-file-1.srt" type="application/x-subrip" />-->
 		
-
+			<podcast:transcript url="https://swa-dhk.github.io/rsstest/files/1790150829_1000683748120_RSS_auto-generated.vtt" type="text/vtt" />
 
 			<enclosure url="https://swa-dhk.github.io/rsstest/files/sample-file-1.mp3" length="43113000" type="audio/mpeg" />
 		</item>
-
+<!--
 		<item>
 			<title>srt test</title>
 			<description>&lt;p&gt;Where are we at now in the podcasting era. What are the current
@@ -96,7 +96,7 @@
 
 			<enclosure url="https://swa-dhk.github.io/rsstest/files/testm4b.1.mp3" length="43113000" type="audio/mpeg" />
 		</item>
-
+-->
 		<item>
 			<title>vtt_test</title>
 			<description>&lt;p&gt;Where are we at now in the podcasting era. What are the current
